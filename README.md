@@ -7,12 +7,7 @@
 Sou Graduando em Engenharia de Computação na Universidade Federal da Bahia, ingressei na UFBA no curso de Engenharia Elétrica, no qual fui voluntário do Ramo Estudantil IEEE UFBA, Membro Bolsista do Programa de Educação Tutorial de Engenharia Elétrica da UFBA e Representante Estudantil do Centro Acadêmico de Engenharia Elétrica. Em 2022, realizei a transferência interna para Computação, visando aprofundar os conhecimentos que venho adquirido através dos projetos que já participei. Tenho como principais áreas de interesse a ciências de dados e a aceleração em hardware e sempre estou tentando ficar envolto por projetos que me permitam estar próximo dessas áreas.
 
 
-<div>
-  <a href="https://github.com/isaacpcaraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaacpcaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpcaraujo&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
+
 <br>
  
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/isaacpcaraujo)
@@ -33,4 +28,3 @@ Sou Graduando em Engenharia de Computação na Universidade Federal da Bahia, in
 
 <br>
 
-### :coffee: KEEP CALM AND TAKE A COFFEE ###
