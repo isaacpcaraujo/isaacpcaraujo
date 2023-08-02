@@ -4,7 +4,7 @@
 
 ## Olá, meu nome é Isaac Araujo!!!
 
-Sou Graduando em Engenharia de Computação na Universidade Federal da Bahia, ingressei na UFBA no curso de Engenharia Elétrica, no qual fui voluntário do Ramo Estudantil IEEE UFBA, Membro Bolsista do Programa de Educação Tutorial de Engenharia Elétrica da UFBA e Representante Estudantil do Centro Acadêmico de Engenharia Elétrica. Em 2022, realizei a transferência interna para Computação, visando aprofundar os conhecimentos que venho adquirido através dos projetos que já participei. Tenho como principais áreas de interesse a ciências de dados e a aceleração em hardware e sempre estou tentando ficar envolto por projetos que me permitam estar próximo dessas áreas.
+Sou Graduando em Engenharia de Computação na Universidade Federal da Bahia. Tenho como principais áreas de interesse a ciências de dados, aprendizado de máquina e sistemas embarcados e sempre estou tentando ficar envolto por projetos que me permitam estar próximo dessas áreas.
 
 
 
